@@ -1,4 +1,4 @@
-# Wind-Farm-Project-Development
+# Wind-Farm-Project-Development in Gujarat, India.
 Wind Energy Development in Gujarat, India
 Gujarat, a coastal state located in the western part of India, has emerged as one of the most prominent hubs for renewable energy in the country, especially in wind energy. With a vast coastline of over 1,600 kilometers along the Arabian Sea and favorable wind patterns, Gujarat offers significant potential for wind power generation. The state has been a frontrunner in India's renewable energy initiatives, driven by progressive policies, a conducive regulatory framework, and an active push from both the central and state governments toward clean energy.
 
